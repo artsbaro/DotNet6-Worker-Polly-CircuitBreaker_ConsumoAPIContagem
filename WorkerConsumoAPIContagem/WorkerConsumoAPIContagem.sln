@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerConsumoAPIContagem", "WorkerConsumoAPIContagem.csproj", "{C5012BCF-36BD-450C-B307-D420F9DB4D4D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIContagem", "..\APIContagem\APIContagem.csproj", "{C260A07E-CAFE-4217-B86F-1B8EC74F91C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumoAPIContagem", "..\ConsumoAPIContagem\ConsumoAPIContagem.csproj", "{DB96E73C-7C0F-419F-B30A-D3DD7CFE84D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C5012BCF-36BD-450C-B307-D420F9DB4D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5012BCF-36BD-450C-B307-D420F9DB4D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5012BCF-36BD-450C-B307-D420F9DB4D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C260A07E-CAFE-4217-B86F-1B8EC74F91C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C260A07E-CAFE-4217-B86F-1B8EC74F91C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C260A07E-CAFE-4217-B86F-1B8EC74F91C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C260A07E-CAFE-4217-B86F-1B8EC74F91C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB96E73C-7C0F-419F-B30A-D3DD7CFE84D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB96E73C-7C0F-419F-B30A-D3DD7CFE84D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB96E73C-7C0F-419F-B30A-D3DD7CFE84D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB96E73C-7C0F-419F-B30A-D3DD7CFE84D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
